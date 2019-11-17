@@ -1,0 +1,62 @@
+/* CSS Document */ 
+
+
+h1.p {
+  font-family: Snell Roundhand, cursive;
+  font-size: 100px;
+ 
+}
+
+h2 {color: black;
+	font-size: 70px;
+	line-height: 105px;
+	  text-align: center;
+	  font-family: Monaco;
+}
+.aadress {
+	color: black;
+	font-size:17px;
+	font-family:Snell Roundhand, cursive;
+	margin-left: 50px;
+}
+.hinnakiri {
+	color: black;
+	font-size: 40px;
+	font-family: Monaco;
+	
+	
+}
+
+body {margin-left: 40px;
+}
+#l {
+  border-style: solid;
+  height: 500px;
+  width: 800px;
+  
+  
+}
+table {margin-top: -80px;
+		}
+
+
+.container2 {text-align: center;
+			border-style: solid;
+			margin-left: 50px;
+		    height: 300px;
+		    width: 600px;
+			
+		
+}
+		.d1 {
+			text-align: center;
+			border: solid black;
+		width: 100px; 
+		height: 100px;
+		background: transperent;
+		border-radius: 50%;
+		display:inline-block;
+		margin-top: -10px;
+		
+		
+		}
